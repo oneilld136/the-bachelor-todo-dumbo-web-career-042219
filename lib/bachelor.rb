@@ -1,3 +1,4 @@
+require_relative
 data = {
   "season 30": [
     {
