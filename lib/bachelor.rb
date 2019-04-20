@@ -69,3 +69,5 @@ def get_occupation(data, hometown)
         return into_array[:name]
       end
   end
+end
+end
